@@ -1,0 +1,25 @@
+2018-12-08 09:31:50,227 Terminal UI Load Finish
+2018-12-08 09:31:50,241 Start Local Service
+2018-12-08 09:31:50,263 Read Config Finish
+2018-12-08 09:31:50,266 Check Device Screen Range
+2018-12-08 09:31:50,284 Check Device License
+2018-12-08 09:31:50,289 Valid Terminal License
+2018-12-08 09:34:28,058 Terminal UI Load Finish
+2018-12-08 09:34:28,059 Start Local Service
+2018-12-08 09:34:28,072 Read Config Finish
+2018-12-08 09:34:28,073 Check Device Screen Range
+2018-12-08 09:35:39,866 Terminal UI Load Finish
+2018-12-08 09:35:57,079 Terminal UI Load Finish
+2018-12-08 09:35:57,081 Start Local Service
+2018-12-08 09:35:57,084 Read Config Finish
+2018-12-08 09:38:23,258 Terminal UI Load Finish
+2018-12-08 09:38:23,259 Start Local Service
+2018-12-08 09:38:41,197 Terminal UI Load Finish
+2018-12-08 09:38:41,198 Start Local Service
+2018-12-08 09:38:41,199 Read Config Finish
+2018-12-08 09:43:09,208 2018-12-08 09:43:09  |       Main |     mainWindow:  60 |===>>| Terminal UI Load Finish
+2018-12-08 09:43:09,210 2018-12-08 09:43:09  |       Main |        Service:  23 |===>>| Start Local Service
+2018-12-08 09:43:09,212 2018-12-08 09:43:09  |       Main |        Service:  27 |===>>| Read Config Finish
+2018-12-08 09:43:37  |       Main |     mainWindow:  60 |===>>| Terminal UI Load Finish
+2018-12-08 09:43:37  |       Main |        Service:  23 |===>>| Start Local Service
+2018-12-08 09:43:37  |       Main |        Service:  27 |===>>| Read Config Finish
